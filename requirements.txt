@@ -1,0 +1,6 @@
+imbalanced-learn
+mrmr-selection
+numpy
+pandas
+scikit-learn
+matplotlib
